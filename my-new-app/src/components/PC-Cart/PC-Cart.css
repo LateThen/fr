@@ -1,0 +1,6 @@
+.cart-delete-button {
+    border: none;
+    background-color: transparent;
+    color: red;
+    cursor: pointer;
+}

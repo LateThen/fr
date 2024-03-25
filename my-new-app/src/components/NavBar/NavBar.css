@@ -1,0 +1,9 @@
+.navbar-ul {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    column-gap: 1em;
+   
+}
